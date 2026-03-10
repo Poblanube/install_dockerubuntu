@@ -24,10 +24,10 @@ Si prefieres seguir el proceso visualmente, puedes ver el tutorial completo aqu√
 ### 1. Actualizar el sistema y preparar dependencias
 Primero, actualizamos los paquetes actuales e instalamos las herramientas necesarias para manejar repositorios v√≠a HTTPS.
 
-```bash
+``
 sudo apt update && sudo apt install -y ca-certificates curl gnupg lsb-release
 
-```bash
+``
 ### 2. Agregar la llave GPG oficial de Docker
 Esto sirve para validar que los paquetes que vamos a instalar son firmados por Docker.
 
