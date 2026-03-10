@@ -1,4 +1,4 @@
-# Instalación de Docker y Docker Compose en Ubuntu por Tech TodAI
+# Instalación de Docker y Docker Compose en Ubuntu 
 
 Aquí encontrarás la guía paso a paso para dejar listo tu servidor con el motor de Docker y el plugin de Compose, ideal para desplegar herramientas como n8n.
 
