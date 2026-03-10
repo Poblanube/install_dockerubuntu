@@ -26,7 +26,7 @@ Primero, actualizamos los paquetes actuales e instalamos las herramientas necesa
 
 ```bash
 sudo apt update && sudo apt install -y ca-certificates curl gnupg lsb-release
-
+---
 ### 2. Agregar la llave GPG oficial de Docker
 Esto sirve para validar que los paquetes que vamos a instalar son firmados por Docker.
 
