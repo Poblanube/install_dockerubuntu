@@ -63,5 +63,12 @@ Para comprobar que todo quedó instalado correctamente, ejecuta los siguientes c
 docker --version
 docker compose version
 ```
+## 📺 Contenido en Video
+
+Si quieres aprender más sobre AWS, Python y Cómputo en la Nube, te invito a 
+mi canal en YouTube: POBLANUBE
+
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Poblanube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@poblanube)
+---
 
 
